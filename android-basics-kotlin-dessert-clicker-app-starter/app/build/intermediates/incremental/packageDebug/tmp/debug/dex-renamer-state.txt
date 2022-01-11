@@ -1,0 +1,4 @@
+#Mon Jan 10 18:28:55 CLST 2022
+base.0=/Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
