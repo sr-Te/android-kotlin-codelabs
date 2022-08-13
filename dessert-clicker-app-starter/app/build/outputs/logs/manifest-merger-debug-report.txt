@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:17:1-37:12
-INJECTED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:17:1-37:12
-INJECTED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:17:1-37:12
-INJECTED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:17:1-37:12
+ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:17:1-37:12
 MERGED from [androidx.databinding:databinding-adapters:7.1.0-rc01] /Users/te/.gradle/caches/transforms-3/c899bf1e072f9f9bc54b62320457f618/transformed/databinding-adapters-7.1.0-rc01/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.databinding:databinding-ktx:7.1.0-rc01] /Users/te/.gradle/caches/transforms-3/21b25e65fc85e90786830f05b9a11f20/transformed/jetified-databinding-ktx-7.1.0-rc01/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.databinding:databinding-runtime:7.1.0-rc01] /Users/te/.gradle/caches/transforms-3/13e20dff91ac630ab1824fce2609b518/transformed/databinding-runtime-7.1.0-rc01/AndroidManifest.xml:17:1-24:12
@@ -47,25 +47,25 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/te/.gradle/caches/
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/te/.gradle/caches/transforms-3/f0f791679dd3efe25848af860a8cfb59/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /Users/te/.gradle/caches/transforms-3/e2c86d54c96725051416a92de6548dee/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/te/.gradle/caches/transforms-3/a09de9dff26f4ec9016e61cd4b4e3add/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:17:1-37:12
-INJECTED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:17:1-37:12
-INJECTED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:17:1-37:12
 	package
-		ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:18:5-49
-		INJECTED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:18:5-49
+		INJECTED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml
-		ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:17:1-37:12
-		INJECTED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:17:1-37:12
+		INJECTED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml
-		ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:17:1-37:12
-		INJECTED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:17:1-37:12
+		INJECTED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:17:11-69
+		ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:17:11-69
 application
-ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:20:5-35:19
+ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:20:5-35:19
 MERGED from [com.google.android.material:material:1.4.0] /Users/te/.gradle/caches/transforms-3/4cabdf11338bc47aba018eb25671b5aa/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.4.0] /Users/te/.gradle/caches/transforms-3/4cabdf11338bc47aba018eb25671b5aa/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/te/.gradle/caches/transforms-3/c156bcb046bcc7a51c60e71cbbeb6e27/transformed/constraintlayout-2.1.1/AndroidManifest.xml:9:5-20
@@ -81,37 +81,37 @@ MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/te/.gradle/cache
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.5.0] /Users/te/.gradle/caches/transforms-3/dc2c89d4cb75ac33c24448d675056ced/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:25:9-35
+		ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:25:9-35
 	android:label
-		ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:23:9-41
+		ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:23:9-41
 	android:roundIcon
-		ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:24:9-61
+		ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:24:9-61
 	android:icon
-		ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:22:9-50
+		ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:22:9-50
 	android:allowBackup
-		ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:21:9-35
+		ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:21:9-35
 	android:theme
-		ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:26:9-40
+		ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:26:9-40
 activity#com.example.android.dessertclicker.MainActivity
-ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:27:9-34:20
+ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:27:9-34:20
 	android:exported
-		ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:28:13-36
+		ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:28:13-36
 	android:name
-		ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:27:19-81
+		ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:27:19-81
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:29:13-33:29
+ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:29:13-33:29
 action#android.intent.action.MAIN
-ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:30:17-69
+ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:30:17-69
 	android:name
-		ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:30:25-66
+		ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:30:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:32:17-77
+ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:32:17-77
 	android:name
-		ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:32:27-74
+		ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:32:27-74
 uses-sdk
-INJECTED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml
-INJECTED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml
 MERGED from [androidx.databinding:databinding-adapters:7.1.0-rc01] /Users/te/.gradle/caches/transforms-3/c899bf1e072f9f9bc54b62320457f618/transformed/databinding-adapters-7.1.0-rc01/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.databinding:databinding-adapters:7.1.0-rc01] /Users/te/.gradle/caches/transforms-3/c899bf1e072f9f9bc54b62320457f618/transformed/databinding-adapters-7.1.0-rc01/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.databinding:databinding-ktx:7.1.0-rc01] /Users/te/.gradle/caches/transforms-3/21b25e65fc85e90786830f05b9a11f20/transformed/jetified-databinding-ktx-7.1.0-rc01/AndroidManifest.xml:20:5-22:41
@@ -198,16 +198,16 @@ MERGED from [androidx.print:print:1.0.0] /Users/te/.gradle/caches/transforms-3/e
 MERGED from [androidx.print:print:1.0.0] /Users/te/.gradle/caches/transforms-3/e2c86d54c96725051416a92de6548dee/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/te/.gradle/caches/transforms-3/a09de9dff26f4ec9016e61cd4b4e3add/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/te/.gradle/caches/transforms-3/a09de9dff26f4ec9016e61cd4b4e3add/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml
-INJECTED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml
-		ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml
-		ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml
 provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
 ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/te/.gradle/caches/transforms-3/b01d7db6e813a6a2dc8b396d17ea8433/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
 	android:authorities

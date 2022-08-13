@@ -95,6 +95,10 @@ class MainActivity : AppCompatActivity() {
 
     }
 
+    override fun onLocalVoiceInteractionStarted() {
+        super.onLocalVoiceInteractionStarted()
+    }
+
 
     override fun onSaveInstanceState(outState: Bundle) {
         super.onSaveInstanceState(outState)

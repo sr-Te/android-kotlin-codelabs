@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gl/values-gl.xml",
+            "outputFile": "/Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gl/values-gl.xml",
             "map": [
                 {
                     "source": "/Users/te/.gradle/caches/transforms-3/e5c7aaf3d5c6e1e0674f0acd0ce12bad/transformed/appcompat-1.3.1/res/values-gl/values-gl.xml",

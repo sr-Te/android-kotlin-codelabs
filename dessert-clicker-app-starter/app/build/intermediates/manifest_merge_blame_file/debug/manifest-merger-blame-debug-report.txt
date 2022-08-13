@@ -21,43 +21,43 @@
 21
 22    <uses-sdk
 23        android:minSdkVersion="19"
-23-->/Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml
+23-->/Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml
 24        android:targetSdkVersion="31" />
-24-->/Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml
+24-->/Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml
 25
 26    <application
-26-->/Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:20:5-35:19
+26-->/Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:20:5-35:19
 27        android:allowBackup="true"
-27-->/Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:21:9-35
+27-->/Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:21:9-35
 28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 28-->[androidx.core:core:1.5.0] /Users/te/.gradle/caches/transforms-3/dc2c89d4cb75ac33c24448d675056ced/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
 29        android:debuggable="true"
 30        android:icon="@mipmap/ic_dessert_clicker"
-30-->/Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:22:9-50
+30-->/Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:22:9-50
 31        android:label="@string/app_name"
-31-->/Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:23:9-41
+31-->/Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:23:9-41
 32        android:roundIcon="@mipmap/ic_dessert_clicker_round"
-32-->/Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:24:9-61
+32-->/Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:24:9-61
 33        android:supportsRtl="true"
-33-->/Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:25:9-35
+33-->/Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:25:9-35
 34        android:testOnly="true"
 35        android:theme="@style/AppTheme" >
-35-->/Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:26:9-40
+35-->/Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:26:9-40
 36        <activity
-36-->/Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:27:9-34:20
+36-->/Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:27:9-34:20
 37            android:name="com.example.android.dessertclicker.MainActivity"
-37-->/Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:27:19-81
+37-->/Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:27:19-81
 38            android:exported="true" >
-38-->/Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:28:13-36
+38-->/Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:28:13-36
 39            <intent-filter>
-39-->/Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:29:13-33:29
+39-->/Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:29:13-33:29
 40                <action android:name="android.intent.action.MAIN" />
-40-->/Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:30:17-69
-40-->/Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:30:25-66
+40-->/Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:30:17-69
+40-->/Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:30:25-66
 41
 42                <category android:name="android.intent.category.LAUNCHER" />
-42-->/Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:32:17-77
-42-->/Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:32:27-74
+42-->/Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:32:17-77
+42-->/Users/te/proyects/AndroidStudioProjects/courses-android-basics-kotlin/dessert-clicker-app-starter/app/src/main/AndroidManifest.xml:32:27-74
 43            </intent-filter>
 44        </activity>
 45

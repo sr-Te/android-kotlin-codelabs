@@ -5,11 +5,9 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
-
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.wordsapp.databinding.ActivityMainBinding
-import com.example.wordsapp.databinding.FragmentLetterListBinding
+import androidx.recyclerview.widget.RecyclerView
 import com.example.wordsapp.databinding.FragmentWordListBinding
 
 class WordListFragment : Fragment() {
@@ -18,15 +16,20 @@ class WordListFragment : Fragment() {
         const val SEARCH_PREFIX = "https://www.google.com/search?q="
     }
 
-    private var _binding : FragmentWordListBinding? = null
+    private lateinit var recyclerView: RecyclerView
+    private var _binding: FragmentWordListBinding? = null
     private val binding get() = _binding!!
+    private lateinit var letterId: String
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
-        val view = ActivityMainBinding.inflate(layoutInflater).root
-        FragmentLetterListBinding.bind(view)
+        arguments?.let {
+            letterId = it.getString(LETTER).toString()
+        }
+//        val view = ActivityMainBinding.inflate(layoutInflater).root
+//        FragmentLetterListBinding.bind(view)
     }
 
     override fun onCreateView(
@@ -39,9 +42,9 @@ class WordListFragment : Fragment() {
     }
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
-        val recyclerView = binding.recyclerView
+        recyclerView = binding.recyclerView
         recyclerView.layoutManager = LinearLayoutManager(requireContext())
-        recyclerView.adapter = WordAdapter(activity?.intent?.extras?.getString(LETTER).toString(), requireContext())
+        recyclerView.adapter = WordAdapter(letterId, requireContext())
         recyclerView.addItemDecoration(
             DividerItemDecoration(context, DividerItemDecoration.VERTICAL)
         )
