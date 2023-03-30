@@ -45,10 +45,10 @@ class GameViewModel : ViewModel() {
             val scrambledWord = it.toString()
             val spannable: Spannable = SpannableString(scrambledWord)
             spannable.setSpan(
-                    TtsSpan.VerbatimBuilder(scrambledWord).build(),
-                    0,
-                    scrambledWord.length,
-                    Spannable.SPAN_INCLUSIVE_INCLUSIVE
+                TtsSpan.VerbatimBuilder(scrambledWord).build(),
+                0,
+                scrambledWord.length,
+                Spannable.SPAN_INCLUSIVE_INCLUSIVE
             )
             spannable
         }
